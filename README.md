@@ -1,6 +1,6 @@
 # TabPFN-Wide
 
-> **Deprecated:** This repository is deprecated. Please use the new repository: https://github.com/not-a-feature/TabPFN-Wide?tab=readme-ov-file
+> **Deprecated:** This repository is deprecated. Please use the new repository: https://github.com/not-a-feature/TabPFN-Wide
 
 This repository provides code and utilities for training and evaluating wide TabPFN-Wide models on multi-omics and tabular datasets. It includes scripts, reusable modules, analysis tools, and pretrained models.
 
